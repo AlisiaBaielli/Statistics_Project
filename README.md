@@ -1,1 +1,1 @@
-In this repository, you can find the project that analyzes the main environmental and socio-economic factors of depression worldwide. This project is part of the Mathematical Statistics course held by Professor Botond Szabo at Bocconi University.
+In this repository, you can find the project that analyzes the main environmental and socio-economic factors of depression worldwide. This project is part of the Mathematical Statistics course held at Bocconi University by Professor Botond Szabo.
